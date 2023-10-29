@@ -1,0 +1,14 @@
+/Users/joshb/Desktop/repos/farmqa-challenge-c#/bin/Debug/net7.0/farmqa-challenge-c#
+/Users/joshb/Desktop/repos/farmqa-challenge-c#/bin/Debug/net7.0/farmqa-challenge-c#.deps.json
+/Users/joshb/Desktop/repos/farmqa-challenge-c#/bin/Debug/net7.0/farmqa-challenge-c#.runtimeconfig.json
+/Users/joshb/Desktop/repos/farmqa-challenge-c#/bin/Debug/net7.0/farmqa-challenge-c#.dll
+/Users/joshb/Desktop/repos/farmqa-challenge-c#/bin/Debug/net7.0/farmqa-challenge-c#.pdb
+/Users/joshb/Desktop/repos/farmqa-challenge-c#/obj/Debug/net7.0/farmqa-challenge-c#.GeneratedMSBuildEditorConfig.editorconfig
+/Users/joshb/Desktop/repos/farmqa-challenge-c#/obj/Debug/net7.0/farmqa-challenge-c#.AssemblyInfoInputs.cache
+/Users/joshb/Desktop/repos/farmqa-challenge-c#/obj/Debug/net7.0/farmqa-challenge-c#.AssemblyInfo.cs
+/Users/joshb/Desktop/repos/farmqa-challenge-c#/obj/Debug/net7.0/farmqa-challenge-c#.csproj.CoreCompileInputs.cache
+/Users/joshb/Desktop/repos/farmqa-challenge-c#/obj/Debug/net7.0/farmqa-challenge-c#.dll
+/Users/joshb/Desktop/repos/farmqa-challenge-c#/obj/Debug/net7.0/refint/farmqa-challenge-c#.dll
+/Users/joshb/Desktop/repos/farmqa-challenge-c#/obj/Debug/net7.0/farmqa-challenge-c#.pdb
+/Users/joshb/Desktop/repos/farmqa-challenge-c#/obj/Debug/net7.0/farmqa-challenge-c#.genruntimeconfig.cache
+/Users/joshb/Desktop/repos/farmqa-challenge-c#/obj/Debug/net7.0/ref/farmqa-challenge-c#.dll
