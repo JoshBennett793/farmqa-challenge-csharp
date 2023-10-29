@@ -5,11 +5,16 @@ class Clock
   {
     hr = hr == 12 ? 0 : hr;
 
+    // calculate angle of minute hand from 0 deg point
     int minAngle = min * 6;
+    
+    // calculate angle of hour hand from 0 deg point
     int hrAngle = hr * 30;
 
+    // calculate inverse degree point from position of hour hand
     int hrInverseAngle = hrAngle + 180;
 
+    // assign and return the smallest angle
     int result = minAngle > hrInverseAngle 
       ? 360 + hrAngle - minAngle 
       : 360 - hrAngle - (360 - minAngle);
@@ -23,13 +28,14 @@ class Clock
 
     // determine angle of min hand from 0 deg point
     double minAngle = min * 6.0;
+
     // determine precise angle of hour hand from 0 deg point
     double hrAngle = (hr * 30.0 + minAngle / 12.0) % 360.0;
     
     // determine absolute difference between both angles
     double angleDifference = Math.Abs(minAngle - hrAngle);
 
-    // if diff is over 180, angle will be calculated 
+    // if diff is over 180, angle will be calculated accordingly
     double result = angleDifference > 180
       ? 360 - angleDifference
       : angleDifference;
